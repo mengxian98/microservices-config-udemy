@@ -1,0 +1,12 @@
+build:
+  version: "1.0.2-DEV"
+
+metadata:
+  environment: "Development"
+  message: "Welcome to Cards Microservices!"
+  contact:
+    name: "DEF - Developer"
+    email: "def-dev@hotmail.com"
+  helpdesk:
+    - (88) 234 567 890
+    - (11) 876 543 210

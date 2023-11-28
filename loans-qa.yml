@@ -1,0 +1,12 @@
+build:
+  version: "2.0-QA"
+
+metadata:
+  environment: "Quality Assurance"
+  message: "Welcome to Loans Microservices!"
+  contact:
+    name: "GHI - QA Lead"
+    email: "GHI-qa@gmail.com"
+  helpdesk:
+    - (77) 222 333 444
+    - (22) 777 666 555

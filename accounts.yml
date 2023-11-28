@@ -1,0 +1,12 @@
+build:
+  version: "1.0.2-DEV"
+
+metadata:
+  environment: "Development"
+  message: "Welcome to Accounts Microservices!"
+  contact:
+    name: "ABC - Developer"
+    email: "abc-dev@yahoo.com"
+  helpdesk:
+    - (99) 123 456 789
+    - (00) 987 654 321

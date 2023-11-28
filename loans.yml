@@ -1,0 +1,12 @@
+build:
+  version: "3.0-DEV"
+
+metadata:
+  environment: "Development"
+  message: "Welcome to Loans Microservices!"
+  contact:
+    name: "GHI - Developer"
+    email: "GHI-dev@gmail.com"
+  helpdesk:
+    - (77) 345 678 901
+    - (22) 765 432 109

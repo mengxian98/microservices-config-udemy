@@ -1,0 +1,12 @@
+build:
+  version: "1.0"
+
+metadata:
+  environment: "Production"
+  message: "Welcome to Loans Microservices!"
+  contact:
+    name: "GHI - Product Owner"
+    email: "GHI@gmail.com"
+  helpdesk:
+    - (77) 222 222 222
+    - (22) 777 777 777

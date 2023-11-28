@@ -1,0 +1,12 @@
+build:
+  version: "1.0.0"
+
+metadata:
+  environment: "Production"
+  message: "Welcome to Accounts Microservices!"
+  contact:
+    name: "ABC - Product Owner"
+    email: "abc@yahoo.com"
+  helpdesk:
+    - (99) 000 000 000
+    - (00) 999 999 999
