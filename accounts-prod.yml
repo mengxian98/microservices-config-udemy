@@ -6,7 +6,7 @@ metadata:
   message: "Welcome to Accounts Microservices!"
   contact:
     name: "ABC - Product Owner"
-    email: "abc@yahoo.com"
+    email: "{cipher}85fb537149a6f1150bf9632818d09b93dde1a6f4ac8b036493a1eb5cf7ad0cf1"
   helpdesk:
     - (99) 000 000 000
     - (00) 999 999 999

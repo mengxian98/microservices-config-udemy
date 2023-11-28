@@ -6,7 +6,7 @@ metadata:
   message: "Welcome to Cards Microservices!"
   contact:
     name: "DEF - Developer"
-    email: "def-dev@hotmail.com"
+    email: "{cipher}e2245f0c1670240359eb41a3bed51b1b24911ab3a28359abc0322d892a97eedb52afb72f0551e4bac53ae741c624f104"
   helpdesk:
     - (88) 234 567 890
     - (11) 876 543 210

@@ -6,7 +6,7 @@ metadata:
   message: "Welcome to Cards Microservices!"
   contact:
     name: "DEF - Product Owner"
-    email: "def@hotmail.com"
+    email: "{cipher}7b177699b449cce29bb0b1566c3c621c8270b1cfd35ce45e54fe08ccfa5a8f9b"
   helpdesk:
     - (88) 111 111 111
     - (11) 888 888 888

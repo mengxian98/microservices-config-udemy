@@ -6,7 +6,7 @@ metadata:
   message: "Welcome to Accounts Microservices!"
   contact:
     name: "ABC - Developer"
-    email: "abc-dev@yahoo.com"
+    email: "{cipher}a5faab10269712155e8771a24fa0969652e30334b6af5d3e0b5e1fd03eccd36a286b95db7641ba1c741b240f4aec8389"
   helpdesk:
     - (99) 123 456 789
     - (00) 987 654 321

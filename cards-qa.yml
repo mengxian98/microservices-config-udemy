@@ -6,7 +6,7 @@ metadata:
   message: "Welcome to Cards Microservices!"
   contact:
     name: "DEF - QA Lead"
-    email: "def-qa@hotmail.com"
+    email: "{cipher}70658f1dc6729d950a15ca895e9677063bcaf366391e2024f56a8d25f854c992330d105820cf5765ee6604ae83bcf985"
   helpdesk:
     - (88) 222 333 444
     - (11) 888 777 666
