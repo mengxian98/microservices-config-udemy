@@ -2,8 +2,8 @@ build:
   version: "1.0.2-DEV"
 
 metadata:
-  environment: "Development"
-  message: "Welcome to Cards Microservices (DEV)!"
+  environment: "DEV - Development"
+  message: "Welcome to Cards Microservices!"
   contact:
     name: "DEF - Developer"
     email: "{cipher}e2245f0c1670240359eb41a3bed51b1b24911ab3a28359abc0322d892a97eedb52afb72f0551e4bac53ae741c624f104"

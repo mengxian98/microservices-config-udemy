@@ -2,8 +2,8 @@ build:
   version: "1.0.1-QA"
 
 metadata:
-  environment: "Quality Assurance"
-  message: "Welcome to Accounts Microservices (QA)!"
+  environment: "QA - Quality Assurance"
+  message: "Welcome to Accounts Microservices!"
   contact:
     name: "ABC - QA Lead"
     email: "{cipher}a140b0de15c3573f5c7693e1debdfb2ddfa3d3f940f9652870d81c9474f81a1aec19ee637d987faabbf69e8d9a3590ea"

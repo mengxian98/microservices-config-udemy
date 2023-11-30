@@ -2,8 +2,8 @@ build:
   version: "3.0-DEV"
 
 metadata:
-  environment: "Development"
-  message: "Welcome to Loans Microservices (DEV)!"
+  environment: "DEV - Development"
+  message: "Welcome to Loans Microservices!"
   contact:
     name: "GHI - Developer"
     email: "{cipher}0f85984d246295d95282e32bdcf79434b59de3257788509e54065c63b9a48074b92fda89ae9962f1ae37c23b525ce265"
