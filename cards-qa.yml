@@ -3,7 +3,7 @@ build:
 
 metadata:
   environment: "Quality Assurance"
-  message: "Welcome to Cards Microservices!"
+  message: "Welcome to Cards Microservices (QA)!"
   contact:
     name: "DEF - QA Lead"
     email: "{cipher}70658f1dc6729d950a15ca895e9677063bcaf366391e2024f56a8d25f854c992330d105820cf5765ee6604ae83bcf985"

@@ -3,7 +3,7 @@ build:
 
 metadata:
   environment: "Quality Assurance"
-  message: "Welcome to Loans Microservices!"
+  message: "Welcome to Loans Microservices (QA)!"
   contact:
     name: "GHI - QA Lead"
     email: "{cipher}2be12ae6b23ba89e3e2bd35bc9e256b51c790181eaa148bbd4b9c8ed3eb8f731074c21b38b433526979a1002ed67b547"

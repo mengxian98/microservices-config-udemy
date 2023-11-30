@@ -3,7 +3,7 @@ build:
 
 metadata:
   environment: "Development"
-  message: "Welcome to Accounts Microservices!"
+  message: "Welcome to Accounts Microservices (DEV)!"
   contact:
     name: "ABC - Developer"
     email: "{cipher}a5faab10269712155e8771a24fa0969652e30334b6af5d3e0b5e1fd03eccd36a286b95db7641ba1c741b240f4aec8389"
