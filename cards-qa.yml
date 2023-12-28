@@ -2,7 +2,7 @@ build:
   version: "1.0.1-QA"
 
 metadata:
-  environment: "Quality Assurance"
+  environment: "Quality Assurance (Docker)"
   message: "Welcome to Cards Microservices!"
   contact:
     name: "DEF - Quality Assurance Lead"
