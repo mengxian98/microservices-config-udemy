@@ -2,7 +2,7 @@ build:
   version: "2.0-QA"
 
 metadata:
-  environment: "Quality Assurance (Docker)"
+  environment: "Quality Assurance"
   message: "Welcome to Loans Microservices!"
   contact:
     name: "GHI - Quality Assurance Lead"
