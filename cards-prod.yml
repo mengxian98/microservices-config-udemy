@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 metadata:
-  environment: "Production (Docker)"
+  environment: "Production"
   message: "Welcome to Cards Microservices!"
   contact:
     name: "DEF - Product Owner"
